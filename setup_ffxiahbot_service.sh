@@ -2,6 +2,7 @@
 
 # Variables de configuration
 USER="alexandre" # Remplacez par votre nom d'utilisateur si nécessaire
+GROUP="alexandre"
 BIN_DIR="/home/$USER/.local/bin"
 WORKING_DIR="/home/$USER/ffxiahbot/bin"
 SERVICE_FILE="/etc/systemd/system/ffxiahbot.service"
